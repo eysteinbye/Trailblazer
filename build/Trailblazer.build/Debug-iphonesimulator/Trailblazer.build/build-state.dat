@@ -1,0 +1,398 @@
+TTrailblazer
+v7
+r0
+t300802653.138331
+cCheck dependencies
+cProcessInfoPlistFile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Info.plist Trailblazer-Info.plist
+cCompileXIB /Users/eysteinbye/Documents/Trailblazer/MainWindow.xib
+cProcessPCH /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch.gch Trailblazer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/main.o /Users/eysteinbye/Documents/Trailblazer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/TrailblazerAppDelegate.o /Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/FirstViewController.o /Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Speed.o /Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Location.o /Users/eysteinbye/Documents/Trailblazer/Classes/Location.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer normal i386
+cGenerateDSYMFile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app.dSYM /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer
+cTouch /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C3000000000004AFC0
+t1261134275
+s307136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManagerDelegate.h
+c000000004B2B61BB00000000000006A0
+t1261134267
+s1696
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKReverseGeocoder.h
+c000000004B2B634F0000000000000623
+t1261134671
+s1571
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/eysteinbye/Documents/Trailblazer/Altitude.xib
+c000000004C3D89920000000000001643
+t1279101330
+s5699
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.h
+c000000004C3D8FF700000000000000E5
+t1279102967
+s229
+i<UIKit/UIKit.h>
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m
+c000000004C3D878400000000000005A9
+t1279100804
+s1449
+i"FirstViewController.h"
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/Location.h
+c000000004C3D9F5F00000000000001AF
+t1279106911
+s431
+i<Foundation/Foundation.h>
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/Location.m
+c000000004C3DA087000000000000090D
+t1279107207
+s2317
+i"Location.h"
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/Speed.h
+c000000004C3D99E80000000000000173
+t1279105512
+s371
+i<Foundation/Foundation.h>
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m
+c000000004C3D99D20000000000000417
+t1279105490
+s1047
+i"Speed.h"
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.h
+c000000004C3DA9EC00000000000006CA
+t1279109612
+s1738
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreLocation/CLLocationManagerDelegate.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKReverseGeocoder.h>
+
+N/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m
+c000000004C3DAA15000000000000115A
+t1279109653
+s4442
+i"TrailblazerAppDelegate.h"
+i"Speed.h"
+i"Location.h"
+
+N/Users/eysteinbye/Documents/Trailblazer/MainWindow.xib
+c000000004C3DAA270000000000019741
+t1279109671
+s104257
+
+N/Users/eysteinbye/Documents/Trailblazer/Map.xib
+c000000004C3D88D70000000000001643
+t1279101143
+s5699
+
+N/Users/eysteinbye/Documents/Trailblazer/SecondView.xib
+c000000004C3D87840000000000004BFE
+t1279100804
+s19454
+
+N/Users/eysteinbye/Documents/Trailblazer/Speed.xib
+c000000004C3D8AE00000000000005DBF
+t1279101664
+s23999
+
+N/Users/eysteinbye/Documents/Trailblazer/Trailblazer_Prefix.pch
+c000000004C3D878400000000000000BF
+t1279100804
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app
+t1279109853
+s340
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app.dSYM
+t1279109853
+s102
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Altitude.nib
+t1279102185
+s960
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Info.plist
+t1279100841
+s609
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/MainWindow.nib
+t1279109852
+s13884
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Map.nib
+t1279102185
+s960
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/PkgInfo
+t1279100841
+s8
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/SecondView.nib
+t1279100841
+s2515
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Speed.nib
+t1279102185
+s3110
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer
+t1279109853
+s27404
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/FirstViewController.o
+t1279102979
+s29916
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Location.o
+t1279107796
+s11496
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Speed.o
+t1279105564
+s8428
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Trailblazer.LinkFileList
+c000000004C3D9DF900000000000002B5
+t1279106553
+s693
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/TrailblazerAppDelegate.o
+t1279109853
+s54660
+
+N/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/main.o
+t1279100842
+s5952
+
+N/Users/eysteinbye/Documents/Trailblazer/main.m
+c000000004C3D8784000000000000015D
+t1279100804
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch.gch
+t1279100841
+s13026768
+
+NTrailblazer-Info.plist
+c000000004C3D8784000000000000038D
+t1279100804
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300802652#300802652#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/FirstViewController.o /Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300795779.734887
+e300795779.788972
+r1
+xCompileC
+xbuild/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/FirstViewController.o
+x/Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m300795779#300795779#0(0"0(0#0#69"/Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m4300911832#1988"    cd /Users/eysteinbye/Documents/Trailblazer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-generated-files.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-own-target-headers.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-all-target-headers.hmap -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-project-headers.hmap -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -I/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/include -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources/i386 -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources -include /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch -c /Users/eysteinbye/Documents/Trailblazer/Classes/FirstViewController.m -o /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Location.o /Users/eysteinbye/Documents/Trailblazer/Classes/Location.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300800596.062856
+e300800596.118212
+r1
+xCompileC
+xbuild/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Location.o
+x/Users/eysteinbye/Documents/Trailblazer/Classes/Location.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/eysteinbye/Documents/Trailblazer/Classes/Location.m300800596#300800596#0(0"0(0#0#58"/Users/eysteinbye/Documents/Trailblazer/Classes/Location.m4300911832#1966"    cd /Users/eysteinbye/Documents/Trailblazer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-generated-files.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-own-target-headers.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-all-target-headers.hmap -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-project-headers.hmap -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -I/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/include -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources/i386 -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources -include /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch -c /Users/eysteinbye/Documents/Trailblazer/Classes/Location.m -o /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Location.o0#
+
+CCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Speed.o /Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300798364.863149
+e300798364.912248
+r1
+xCompileC
+xbuild/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Speed.o
+x/Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m300798364#300798364#0(0"0(0#0#55"/Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m4300911832#1960"    cd /Users/eysteinbye/Documents/Trailblazer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-generated-files.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-own-target-headers.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-all-target-headers.hmap -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-project-headers.hmap -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -I/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/include -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources/i386 -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources -include /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch -c /Users/eysteinbye/Documents/Trailblazer/Classes/Speed.m -o /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Speed.o0#
+
+CCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/TrailblazerAppDelegate.o /Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300802652.985561
+e300802653.099912
+r1
+xCompileC
+xbuild/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/TrailblazerAppDelegate.o
+x/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m: In function '-[TrailblazerAppDelegate update]':
+o/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m:21: warning: class 'TrailblazerAppDelegate' does not implement the 'CLLocationManagerDelegate' protocol
+lSLF07#2@80"Compile /Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m300802652#300802653#0(299"/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m: In function '-[TrailblazerAppDelegate update]':/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m:21: warning: class 'TrailblazerAppDelegate' does not implement the 'CLLocationManagerDelegate' protocol1(22@90"Class 'TrailblazerAppDelegate' does not implement the 'CLLocationManagerDelegate' protocol300802653#122#177#0(6@72"/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m300802453#21#0#21#0#45"class '*' does not implement the '*' protocol0(0#0#72"/Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m4300911832#1994"    cd /Users/eysteinbye/Documents/Trailblazer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-generated-files.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-own-target-headers.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-all-target-headers.hmap -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-project-headers.hmap -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -I/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/include -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources/i386 -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources -include /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch -c /Users/eysteinbye/Documents/Trailblazer/Classes/TrailblazerAppDelegate.m -o /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/TrailblazerAppDelegate.o0#
+
+CCompileC build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/main.o /Users/eysteinbye/Documents/Trailblazer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300793641.996036
+e300793642.050883
+r1
+xCompileC
+xbuild/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/main.o
+x/Users/eysteinbye/Documents/Trailblazer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/eysteinbye/Documents/Trailblazer/main.m300793641#300793642#0(0"0(0#0#46"/Users/eysteinbye/Documents/Trailblazer/main.m4300911832#1950"    cd /Users/eysteinbye/Documents/Trailblazer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-generated-files.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-own-target-headers.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-all-target-headers.hmap -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-project-headers.hmap -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -I/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/include -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources/i386 -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources -include /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch -c /Users/eysteinbye/Documents/Trailblazer/main.m -o /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/eysteinbye/Documents/Trailblazer/Altitude.xib
+s300794984.894317
+e300794985.189527
+r1
+xCompileXIB
+x/Users/eysteinbye/Documents/Trailblazer/Altitude.xib
+lSLF07#2@23"CompileXIB Altitude.xib300794984#300794985#0(0"0(0#0#52"/Users/eysteinbye/Documents/Trailblazer/Altitude.xib4300911832#485"    cd /Users/eysteinbye/Documents/Trailblazer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Altitude.nib /Users/eysteinbye/Documents/Trailblazer/Altitude.xib0#
+
+CCompileXIB /Users/eysteinbye/Documents/Trailblazer/MainWindow.xib
+s300802652.385708
+e300802652.985267
+r1
+xCompileXIB
+x/Users/eysteinbye/Documents/Trailblazer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300802652#300802652#0(0"0(0#0#54"/Users/eysteinbye/Documents/Trailblazer/MainWindow.xib4300911832#489"    cd /Users/eysteinbye/Documents/Trailblazer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/MainWindow.nib /Users/eysteinbye/Documents/Trailblazer/MainWindow.xib0#
+
+CCompileXIB /Users/eysteinbye/Documents/Trailblazer/Map.xib
+s300794984.893601
+e300794985.212039
+r1
+xCompileXIB
+x/Users/eysteinbye/Documents/Trailblazer/Map.xib
+lSLF07#2@18"CompileXIB Map.xib300794984#300794985#0(0"0(0#0#47"/Users/eysteinbye/Documents/Trailblazer/Map.xib4300911832#475"    cd /Users/eysteinbye/Documents/Trailblazer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Map.nib /Users/eysteinbye/Documents/Trailblazer/Map.xib0#
+
+CCompileXIB /Users/eysteinbye/Documents/Trailblazer/SecondView.xib
+s300793641.079083
+e300793641.411182
+r1
+xCompileXIB
+x/Users/eysteinbye/Documents/Trailblazer/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib300793641#300793641#0(0"0(0#0#54"/Users/eysteinbye/Documents/Trailblazer/SecondView.xib4300911832#489"    cd /Users/eysteinbye/Documents/Trailblazer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/SecondView.nib /Users/eysteinbye/Documents/Trailblazer/SecondView.xib0#
+
+CCompileXIB /Users/eysteinbye/Documents/Trailblazer/Speed.xib
+s300794984.895404
+e300794985.295828
+r1
+xCompileXIB
+x/Users/eysteinbye/Documents/Trailblazer/Speed.xib
+lSLF07#2@20"CompileXIB Speed.xib300794984#300794985#0(0"0(0#0#49"/Users/eysteinbye/Documents/Trailblazer/Speed.xib4300911832#479"    cd /Users/eysteinbye/Documents/Trailblazer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Speed.nib /Users/eysteinbye/Documents/Trailblazer/Speed.xib0#
+
+CGenerateDSYMFile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app.dSYM /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer
+s300802653.121764
+e300802653.135453
+r1
+xGenerateDSYMFile
+x/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app.dSYM
+x/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Trailblazer.app.dSYM build/Debug-iphonesimulator/Trailblazer.app/Trailblazer300802653#300802653#0(0"0(0#0#95"/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer4300911832#398"    cd /Users/eysteinbye/Documents/Trailblazer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer -o /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app.dSYM0#
+
+CLd /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer normal i386
+s300802653.100005
+e300802653.121632
+r1
+xLd
+x/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer
+xnormal
+xi386
+lSLF07#2@100"Link /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer300802653#300802653#0(0"0(0#0#0"4300911832#913"    cd /Users/eysteinbye/Documents/Trailblazer    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -filelist /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Objects-normal/i386/Trailblazer.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Trailblazer0#
+
+CProcessInfoPlistFile /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Info.plist Trailblazer-Info.plist
+s300793641.041857
+e300793641.078093
+r1
+xProcessInfoPlistFile
+x/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Info.plist
+xTrailblazer-Info.plist
+lSLF07#2@30"Process Trailblazer-Info.plist300793641#300793641#0(0"0(0#0#62"/Users/eysteinbye/Documents/Trailblazer/Trailblazer-Info.plist32370056120631408#494"    cd /Users/eysteinbye/Documents/Trailblazer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Trailblazer-Info.plist -genpkginfo /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app/Info.plist0#
+
+CProcessPCH /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch.gch Trailblazer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300793641.424793
+e300793641.995893
+r1
+xProcessPCH
+x/var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch.gch
+xTrailblazer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Trailblazer_Prefix.pch300793641#300793641#0(0"0(0#0#62"/Users/eysteinbye/Documents/Trailblazer/Trailblazer_Prefix.pch4300911832#1837"    cd /Users/eysteinbye/Documents/Trailblazer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-generated-files.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-own-target-headers.hmap -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-all-target-headers.hmap -iquote /Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/Trailblazer-project-headers.hmap -F/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator -I/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/include -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources/i386 -I/Users/eysteinbye/Documents/Trailblazer/build/Trailblazer.build/Debug-iphonesimulator/Trailblazer.build/DerivedSources -c /Users/eysteinbye/Documents/Trailblazer/Trailblazer_Prefix.pch -o /var/folders/Ch/Ch8oHslNFxmtH-aDrJwam++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Trailblazer_Prefix-gpvaeeniioyxgbeokfyzzuonjxus/Trailblazer_Prefix.pch.gch0#
+
+CTouch /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app
+s300802653.135572
+e300802653.138287
+r1
+xTouch
+x/Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app
+lSLF07#2@89"Touch /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app300802653#300802653#0(0"0(0#0#0"4300911832#284"    cd /Users/eysteinbye/Documents/Trailblazer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/eysteinbye/Documents/Trailblazer/build/Debug-iphonesimulator/Trailblazer.app0#
+
